@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-## Hi there 👋
+DARYL H.O. 👋
 
-### 🛠️ Langauges
+### 🛠️ Langauges & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
