@@ -24,7 +24,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Dareel1502&show_icons=true&locale=en&theme=tokyonight" alt="Dareel" />
     </td>
     <td>
-      <img src="https://wakatime.com/share/@dareel/8f8a8a8a-8f8a-8a8a-8a8a-8a8a8a8a8a8a.svg" alt="WakaTime Stats" />
+      <figure><embed src="https://wakatime.com/share/@dareel/cd84dd42-35da-425e-9573-64c2853c1901.svg"></embed></figure>
     </td>
   </tr>
 </table>
