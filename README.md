@@ -1,5 +1,12 @@
 <!--START_SECTION:waka-->
- ## Hi there 👋
+## Hi there 👋
+
+### 🛠️ My Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
 ### 📈 My Stats
 
@@ -17,8 +24,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Dareel1502&show_icons=true&locale=en&theme=tokyonight" alt="Dareel" />
     </td>
     <td>
-      <a href="https://wakatime.com/@dareel">
-        <img src="https://github-readme-stats-pyromagnes-projects.vercel.app/api/wakatime?username=Dareel1502&layout=compact&theme=tokyonight&hide_border=false&custom_title=Time%20Spent%20in%20Languages" alt="WakaTime Stats" />
-      </a>
+      <img src="https://wakatime.com/share/@dareel/8f8a8a8a-8f8a-8a8a-8a8a-8a8a8a8a8a8a.svg" alt="WakaTime Stats" />
     </td>
+  </tr>
+</table>
 <!--END_SECTION:waka-->
