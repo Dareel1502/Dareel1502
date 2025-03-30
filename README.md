@@ -3,7 +3,9 @@
 </div>
 
 
-<h3 align="center">DARYL HANS OCAO</h3>
+<h3 align="left">DARYL HANS OCAO</h3>
+
+<h3 align="center">👩‍💻  About Me</h3>
 <p align="left">I am a passionate and driven Bachelor of Science in Information Technology (BSIT) student with a strong desire to expand my knowledge and sharpen my technical skills through academic projects, self-study, and hands-on experience. My curiosity and commitment to continuous learning have led me to explore programming, software development, and emerging technologies, applying what I learn to real-world challenges.</p>
 
 
@@ -30,7 +32,7 @@
 
 
 <br clear="both">
-
+h3 align="center">🛠 Language and Tools</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -58,5 +60,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dareel1502/Dareel1502/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Dareel1502/Dareel1502/output/github-snake.svg" />
 </picture>
+
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+<h3 align="center">🔥   My Stats :</
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
 
 
