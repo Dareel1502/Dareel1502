@@ -1,5 +1,8 @@
-# 💫 About Me:
-I'm currently studying <br>Eager to learn
+
+
+
+# 💫 About Me
+Currently studying <br>Eager to learn
 
 
 ## 🌐 Socials:
