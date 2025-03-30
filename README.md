@@ -3,9 +3,9 @@
 </div>
 
 
-<h3 align="left">DARYL HANS OCAO</h3>
+<h3 align="center">DARYL HANS OCAO</h3>
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 <p align="left">I am a passionate and driven Bachelor of Science in Information Technology (BSIT) student with a strong desire to expand my knowledge and sharpen my technical skills through academic projects, self-study, and hands-on experience. My curiosity and commitment to continuous learning have led me to explore programming, software development, and emerging technologies, applying what I learn to real-world challenges.</p>
 
 
@@ -32,7 +32,7 @@
 
 
 <br clear="both">
-<h3 align="center">🛠 Language and Tools</h3>
+<h2 align="left">🛠 Language and Tools</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -54,7 +54,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
-<h3 align="center">🔥   My Stats : </h3>
+<h2 align="left">🔥   My Contribution </h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dareel1502/Dareel1502/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dareel1502/Dareel1502/output/github-snake.svg" />
