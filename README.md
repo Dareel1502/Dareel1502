@@ -2,11 +2,11 @@
   <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
 
-<h3 align="center">Hi 👋! My name is Daryl Hans Ocao and IT student from Philippines</h3>
 
-###
+<h3 align="center">DARYL HANS OCAO</h3>
+<p align="center">I am a passionate and driven Bachelor of Science in Information Technology (BSIT) student with a strong desire to expand my knowledge and sharpen my technical skills through academic projects, self-study, and hands-on experience. My curiosity and commitment to continuous learning have led me to explore programming, software development, and emerging technologies, applying what I learn to real-world challenges.</p>
+
 
 <br clear="both">
 
@@ -25,7 +25,7 @@
   </a>
 </div>
 
-###
+
 
 <br clear="both">
 
@@ -57,4 +57,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Dareel1502/Dareel1502/output/github-snake.svg" />
 </picture>
 
-###
+
