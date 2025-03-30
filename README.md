@@ -38,10 +38,24 @@
 
 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dareel1502&theme=prussian&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Dareel1502&theme=prussian&hide_border=true" alt="Streak" width="49%" />
-  <img src="https://wakatime.com/share/@dareel/2b674de9-1f1e-4a74-a494-d58532a0f363.svg" alt="WakaTime" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dareel1502&theme=prussian&hide_border=true&layout=compact" alt="Top Languages" width="49%" />
+  <table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dareel1502&show_icons=true&locale=en&layout=compact&theme=tokyonight&amp;hide_border=false&card_width=500" alt="Dareel1502" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dareel1502&&theme=tokyonight" alt="Daryl" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Dareel1502&show_icons=true&locale=en&theme=tokyonight" alt="Dareel1502" />
+    </td>
+    <td>
+      <a href="https://wakatime.com/@dareel">
+        <img src="https://wakatime.com/@930b6003-39ee-494a-a3f5-231f22ab7f35"><img src="https://wakatime.com/badge/user/930b6003-39ee-494a-a3f5-231f22ab7f35.svg" alt="Total time coded since Aug 30 2024" alt="WakaTime Stats" />
+      </a>
+    </td>
 </div>
 
 ---
