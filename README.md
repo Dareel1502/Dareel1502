@@ -2,6 +2,7 @@
   <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
   <h1>DARYL HANS OCAO</h1>
   <h3>BSIT Student | Aspiring Developer</h3>
+  <a href="https://wakatime.com/badge/github/Dareel1502/Dareel1502"><img src="https://wakatime.com/badge/github/Dareel1502/Dareel1502.svg" alt="wakatime"></a>
 </div>
 
 ---
@@ -39,7 +40,7 @@
 📊 GitHub Stats
 <div align="center">
   <table>
-  <tr>
+ <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dareel1502&show_icons=true&locale=en&layout=compact&theme=tokyonight&amp;hide_border=false&card_width=500" alt="Dareel1502" />
     </td>
@@ -56,6 +57,8 @@
         <img src="https://wakatime.com/@930b6003-39ee-494a-a3f5-231f22ab7f35"><img src="https://wakatime.com/badge/user/930b6003-39ee-494a-a3f5-231f22ab7f35.svg" alt="Total time coded since Aug 30 2024" alt="WakaTime Stats" />
       </a>
     </td>
+    </tr>
+    </table>
 </div>
 
 ---
