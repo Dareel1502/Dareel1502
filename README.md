@@ -2,7 +2,9 @@
   <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
   <h1>DARYL HANS OCAO</h1>
   <h3>BSIT Student | Aspiring Developer</h3>
-  <a href="https://wakatime.com/badge/github/Dareel1502/Dareel1502"><img src="https://wakatime.com/badge/github/Dareel1502/Dareel1502.svg" alt="wakatime"></a>
+    <a href="https://wakatime.com/@dareel">
+        <img src="https://wakatime.com/@930b6003-39ee-494a-a3f5-231f22ab7f35"><img src="https://wakatime.com/badge/user/930b6003-39ee-494a-a3f5-231f22ab7f35.svg" alt="Total time coded since Aug 30 2024" alt="WakaTime Stats" />
+      </a>
 </div>
 
 ---
@@ -12,6 +14,7 @@
 
 ---
 
+ 
 🌐 Socials
 <div align="center">
   <a href="https://www.instagram.com/dareel_hans/direct/" target="_blank">
@@ -54,7 +57,7 @@
     </td>
     <td>
       <a href="https://wakatime.com/@dareel">
-        <img src="https://wakatime.com/@930b6003-39ee-494a-a3f5-231f22ab7f35"><img src="https://wakatime.com/badge/user/930b6003-39ee-494a-a3f5-231f22ab7f35.svg" alt="Total time coded since Aug 30 2024" alt="WakaTime Stats" />
+        <img src="https://wakatime.com/@930b6003-39ee-494a-a3f5-231f22ab7f35"><img src="https://wakatime.com/share/@dareel/8531b9db-a12a-44de-88cb-3bd1bcda7d91.svg" alt="Total time coded since Aug 30 2024" alt="WakaTime Stats" />
       </a>
     </td>
     </tr>
