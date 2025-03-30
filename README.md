@@ -3,14 +3,16 @@
 </div>
 
 
-
 <h3 align="center">DARYL HANS OCAO</h3>
-<p align="center">I am a passionate and driven Bachelor of Science in Information Technology (BSIT) student with a strong desire to expand my knowledge and sharpen my technical skills through academic projects, self-study, and hands-on experience. My curiosity and commitment to continuous learning have led me to explore programming, software development, and emerging technologies, applying what I learn to real-world challenges.</p>
+<p align="left">I am a passionate and driven Bachelor of Science in Information Technology (BSIT) student with a strong desire to expand my knowledge and sharpen my technical skills through academic projects, self-study, and hands-on experience. My curiosity and commitment to continuous learning have led me to explore programming, software development, and emerging technologies, applying what I learn to real-world challenges.</p>
 
 
 <br clear="both">
 
 <div align="center">
+
+
+
   <a href="https://www.instagram.com/dareel_hans/direct/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
