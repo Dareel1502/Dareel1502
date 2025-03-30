@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hi 👋! My name is Daryl Hans Ocao and I'm a IT student from Philippines</h3>
+<h3 align="center">Hi 👋! My name is Daryl Hans Ocao and IT student from Philippines</h3>
 
 ###
 
