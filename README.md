@@ -68,8 +68,3 @@
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Dareel1502&limit=5&theme=prussian&combine_all_yearly_contributions=true" alt="Top Repos" />
 </div>
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=000000&label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FDareel1502.github.io%2FREADME&labelColor=000000&style=flat-square" alt="Visitor Count" />
-</div>
