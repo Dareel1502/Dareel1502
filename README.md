@@ -42,7 +42,7 @@
 
 📊 GitHub Stats
 <div align="center">
-  <table>
+ 
  <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dareel1502&show_icons=true&locale=en&layout=compact&theme=tokyonight&amp;hide_border=false&card_width=500" alt="Dareel1502" />
@@ -61,7 +61,7 @@
       </a>
     </td>
     </tr>
-    </table>
+ 
 </div>
 
 ---
