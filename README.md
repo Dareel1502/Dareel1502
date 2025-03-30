@@ -1,7 +1,7 @@
 
 
 
-# 💫 About Me
+# 💫 About Me:
 Currently studying <br>Eager to learn
 
 
