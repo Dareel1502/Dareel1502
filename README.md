@@ -22,7 +22,7 @@ I'm currently studying <br>Eager to learn
       <img src="https://github-readme-stats.vercel.app/api?username=Dareel1502&show_icons=true&locale=en&theme=tokyonight" alt="Dareel" />
     </td>
     <td>
-      <img src="https://wakatime.com/share/@dareel/cd84dd42-35da-425e-9573-64c2853c1901.svg" alt="WakaTime Stats" width="500"/>
+      <img src="https://wakatime.com/share/@dareel/ce1eb44a-0f10-4624-b504-04ff196bac17.svg" alt="WakaTime Stats" width="500"/>
     </td>
   </tr>
 </table>
