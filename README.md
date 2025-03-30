@@ -43,4 +43,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dareel1502/Dareel1502/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dareel1502/Dareel1502/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Dareel1502/Dareel1502/output/github-snake.svg" />
+</picture>
+
 ###
