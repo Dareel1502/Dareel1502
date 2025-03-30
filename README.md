@@ -40,8 +40,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dareel1502&theme=prussian&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=Dareel1502&theme=prussian&hide_border=true" alt="Streak" width="49%" />
+  <img src="https://wakatime.com/share/@dareel/2b674de9-1f1e-4a74-a494-d58532a0f363.svg" alt="WakaTime" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dareel1502&theme=prussian&hide_border=true&layout=compact" alt="Top Languages" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Dareel1502&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" width="49%" />
 </div>
 
 ---
