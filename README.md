@@ -11,16 +11,16 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.instagram.com/dareel_hans/" target="_blank">
+  <a href="https://www.instagram.com/dareel_hans/direct/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   <a href="https://discord.com/invite/rfar2Ukc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=darylhansocao@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=darylhansocao@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.facebook.com/DarylHansOcao" target="_blank">
+  <a href="https://www.facebook.com/messages/t/DarylHansOcao" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
   </a>
 </div>
