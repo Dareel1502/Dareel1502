@@ -42,10 +42,10 @@
 
 📊 GitHub Stats
 <div align="center">
- 
+  <table>
  <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dareel1502&show_icons=true&locale=en&layout=compact&theme=tokyonight&amp;hide_border=false&card_width=500" alt="Dareel1502" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dareel1502&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500&exclude_repo=github-readme-stats" alt="Top Languages" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dareel1502&&theme=tokyonight" alt="Daryl" />
@@ -61,7 +61,7 @@
       </a>
     </td>
     </tr>
- 
+    </table>
 </div>
 
 ---
