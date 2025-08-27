@@ -35,7 +35,7 @@
 
 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,c,java,tailwind,nodejs,express,cpp,figma,Pyhton" />
+  <img src="https://skillicons.dev/icons?i=js,react,c,java,tailwind,nodejs,express,cpp,figma,python,sql" />
 </div>
 
 ---
