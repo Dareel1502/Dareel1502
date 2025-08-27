@@ -43,26 +43,27 @@
 📊 GitHub Stats
 <div align="center">
   <table>
- <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dareel1502&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500&exclude_repo=github-readme-stats" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dareel1502&&theme=tokyonight" alt="Daryl" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Dareel1502&show_icons=true&locale=en&theme=tokyonight" alt="Dareel1502" />
-    </td>
-    <td>
-      <a href="https://wakatime.com/@dareel">
-      <img src="https://wakatime.com/share/@dareel/8531b9db-a12a-44de-88cb-3bd1bcda7d91.svg" alt="Total time coded since Aug 30 2024" alt="WakaTime Stats" />
-      </a>
-    </td>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dareel1502&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dareel1502&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
     </tr>
-    </table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Dareel1502&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <a href="https://wakatime.com/@dareel">
+          <img src="https://wakatime.com/share/@dareel/8531b9db-a12a-44de-88cb-3bd1bcda7d91.svg" alt="WakaTime Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
