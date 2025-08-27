@@ -45,7 +45,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dareel1502&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+        <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Dareel1502&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dareel1502&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
