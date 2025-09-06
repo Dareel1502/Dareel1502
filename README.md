@@ -3,14 +3,14 @@
   <h1>DARYL HANS OCAO</h1>
   <h3>BSIT Student | Aspiring Developer</h3>
     <a href="https://wakatime.com/@dareel">
-        <img src="https://wakatime.com/badge/user/930b6003-39ee-494a-a3f5-231f22ab7f35.svg" alt="Total time coded since Aug 30 2024" alt="WakaTime Stats" />
+        <img src="https://wakatime.com/badge/user/930b6003-39ee-494a-a3f5-231f22ab7f35.svg" alt="Total time coded since Aug 30 2023" alt="WakaTime Stats" />
       </a>
 </div>
 
 ---
 
 👩‍💻 About Me
-<p>I am a passionate and driven Bachelor of Science in Information Technology (BSIT) student with a strong desire to expand my knowledge and sharpen my technical skills through academic projects, self-study, and hands-on experience. My curiosity and commitment to continuous learning have led me to explore programming, software development, and emerging technologies, applying what I learn to real-world challenges.</p>
+<pRecent Bachelor of Science in Information Technology (BSIT) graduate with a strong foundation in system and software development. Experienced in building web and mobile applications through academic and team projects, with growing expertise in machine learning and data-driven solutions. Passionate about continuous learning, problem-solving, and applying technology to create innovative and efficient systems.</p>
 
 ---
 
